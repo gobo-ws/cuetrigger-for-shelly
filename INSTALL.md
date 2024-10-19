@@ -31,7 +31,7 @@
      - `cueId3`: Cue ID for switch/pushbutton 3
      - `cueId4`: Cue ID for switch/pushbutton 4
     
-       <img src="gfx/config_section.png" alt="Configuration Section" width="600" />
+   <img src="https://raw.githubusercontent.com/gobo-ws/cuetrigger-for-shelly/refs/heads/main/gfx/config_section.png" alt="Configuration Section" width="600" />
 
 5. **Default script example:**
      - The values set in the configuration section will be the default values. However thanks to KVS (Key-Value Storage), you can update them remotely later without modifying the script directly in the Shelly web interface
