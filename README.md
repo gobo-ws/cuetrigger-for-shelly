@@ -19,7 +19,7 @@ For testing purposes, a Shelly Plus i4 DC is used, allowing it to trigger four d
 
 ---
 
-[gobo.ws can help customize solutions](mailto:hello@gobo.ws) to meet your specific needs. I can also develop scripts for other devices from Visual Productions, in addition to the ones I already support and create solutions for products from other [manufacturers](API.md)
+[gobo.ws can help customize solutions](mailto:hello@gobo.ws) to meet your specific needs. I can also develop scripts for other devices from Visual Productions, in addition to the ones I already support and create solutions for products from other manufacturers.
 
 
 ---
