@@ -1,7 +1,7 @@
 ### CueTrigger for Shelly - Installation Instructions
 
 1. **Download and edit configuration:**
-   - Download the [cuetrigger-for-shelly.mjs](script/cuetrigger-for-shelly.mjs) file
+   - Download the [cuetrigger-for-shelly.js](script/cuetrigger-for-shelly.js) file
    - Open the file with a text editor to edit the configuration section
 
 2. **Configuration section:**
