@@ -7,7 +7,7 @@ While Shelly products are typically designed for IoT applications, they can also
 This wireless solution serves as a simple alternative to the CueCore's GPI ports or B-Station, particularly in situations where running signal cables to a switch or push button is impractical.
 The setup is straightforward and offers an affordable option, with the only cost being the purchase of a compatible Shelly device.
 
-Supported devices from Shelly include the Gen2+ devices with input instances. Some examples are the Shelly Plus I4, Shelly Plus 1 (Mini), Shelly Plus 1 PM (Mini), Shelly Plus 2 PM, Shelly Plus Uni, Shelly Pro 1, Shelly Pro 1 PM, Shelly Pro 2, Shelly Pro 2 PM, Shelly Pro 3, Shelly Pro 4 PM, and Shelly Pro Dual Cover PM. However the number of inputs depends on the model.
+Supported devices from Shelly include the Gen2+ devices with input instances. Some examples are the Shelly Plus I4, Shelly Plus 1 (Mini), Shelly Plus 1 PM (Mini), Shelly Plus 2 PM, Shelly Plus Uni, Shelly Pro 1, Shelly Pro 1 PM, Shelly Pro 2, Shelly Pro 2 PM, Shelly Pro 3, Shelly Pro 4 PM and Shelly Pro Dual Cover PM. However the number of inputs depends on the model.
 
 
 For testing purposes, a Shelly Plus i4 DC is used, allowing it to trigger four different cues in combination with the online CueCore3 demo unit.
