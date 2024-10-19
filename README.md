@@ -9,7 +9,7 @@ The setup is straightforward and offers an affordable option, with the only cost
 
 For testing purposes, a Shelly Plus i4 DC is used, allowing it to trigger four different cues in combination with the online CueCore3 demo unit.
 
-<img src="cuetrigger_for_shelly.gif" alt="CueTrigger for Shelly" width="1910" />
+<img src="gfx/cuetrigger_for_shelly.gif" alt="CueTrigger for Shelly" width="1910" />
 
 ---
 [Installation Instructions](INSTALL.md) | [Download](scripts/cuetrigger-for-shelly.mjs)
