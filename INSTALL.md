@@ -30,13 +30,13 @@
      - `cueId2`: Cue ID for switch/pushbutton 2
      - `cueId3`: Cue ID for switch/pushbutton 3
      - `cueId4`: Cue ID for switch/pushbutton 4
-    
-     <img src="https://raw.githubusercontent.com/gobo-ws/cuetrigger-for-shelly/refs/heads/main/gfx/config_section.png" alt="Configuration Section" width="600" />
 
-5. **Default script example:**
+       <img src="https://raw.githubusercontent.com/gobo-ws/cuetrigger-for-shelly/refs/heads/main/gfx/config_section.png" alt="Configuration Section" width="600" />
+
+6. **Default script example:**
      - The values set in the configuration section will be the default values. However thanks to KVS (Key-Value Storage), you can update them remotely later without modifying the script directly in the Shelly web interface
 
-6. **Add the script to your Shelly device:**
+7. **Add the script to your Shelly device:**
    - Open your web browser and enter the hostname/IP of your Shelly device
    - Click on the "Scripts" menu option
    - Click the "Create script" button
@@ -49,12 +49,12 @@
   
       <img src="gfx/script_running.png" alt="Script is running" width="600" />
 
-7. **Example command to update configuration using KVS:**
+8. **Example command to update configuration using KVS:**
    - To connect to the Shelly device at `192.168.33.1` and update the Cue with ID 2 to `32`, open your web browser and enter the following URL:
      ```
      http://192.168.33.1/rpc/KVS.Set?key="cueId2"&value="32"
      ```
-8. **Restart the script after updating a KVS variable:**
+9. **Restart the script after updating a KVS variable:**
    - Stop script 1:
      ```
      http://192.168.33.1/rpc/Script.Stop?id=1
