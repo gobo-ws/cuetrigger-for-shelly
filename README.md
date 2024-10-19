@@ -12,7 +12,7 @@ For testing purposes, a Shelly Plus i4 DC is used, allowing it to trigger four d
 <img src="gfx/cuetrigger_for_shelly.gif" alt="CueTrigger for Shelly" width="1910" />
 
 ---
-[Installation Instructions](INSTALL.md) | [Download](scripts/cuetrigger-for-shelly.mjs)
+[Installation Instructions](INSTALL.md) | [Download](script/cuetrigger-for-shelly.mjs)
 
 ---
 
