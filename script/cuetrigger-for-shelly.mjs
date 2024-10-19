@@ -16,7 +16,7 @@
 
 // Default configuration
 let defaultConfig = {
-    hostname: 'haarlem.visualproductions.nl:91', // Device hostname/IP
+    hostname: '192.168.33.2', // Device hostname/IP
     mode: 'switch', // Options: 'switch' or 'pushbutton'
     deviceType: 'CueCore', // Options: 'CueCore', 'QuadCore', 'CuetyLPU2'
 	
