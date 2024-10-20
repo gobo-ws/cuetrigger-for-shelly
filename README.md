@@ -2,7 +2,7 @@
 
 gobo.ws has developed an open-source script that integrates [Shelly devices](https://www.shelly.com/) with a switch or pushbutton to wirelessly trigger or stop cues on CueCore2, CueCore3, QuadCore, or Cuety LPU-2 devices from [Visual Productions](https://www.visualproductions.nl/).
 
-Switch mode will send the command `Playback jump` / `Release playback`, pushbutton mode will send the command: `Playback jump`. 
+Switch mode will send the command `Playback jump` / `Release playback`, pushbutton mode will send the command `Playback jump`. 
 
 While Shelly products are typically designed for IoT applications, they can also offer a cost-effective control solution for professional use. For instance [Rigport](https://rigport.com/) incorporates Shellies into their SmartVT range. However the reliability of 2,4 GHz Wi-Fi in certain environments should be carefully considered.
 
