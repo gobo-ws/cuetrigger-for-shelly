@@ -5,14 +5,14 @@
 
 **Required Devices:**
 - **Visual Productions Device:** A CueCore2, CueCore3, QuadCore, or Cuety LPU-2 device
-- **Shelly Device:** Ensure you have a device that supports scripting (Gen2+ devices) and has input instances (e.g., Shelly Plus i4, which has four inputs)
+- **Shelly Device:** Gen2+ devices that supports scripting and has input instances (e.g., Shelly Plus i4, which has four inputs)
 - **Pushbuttons/Switches:** Wired switches that connect to the Shelly device for triggering cues
 
 ---
 
 **Hardware Setup:**
 - Connect the pushbutton or switch to your Shelly device. Follow the wiring instructions in the Shelly documentation
-- Ensure your CueCore or related Visual Productions device is connected to the same network as your Shelly device
+- Ensure your Visual Productions device is connected to the same network as your Shelly device
 
 
 ---
