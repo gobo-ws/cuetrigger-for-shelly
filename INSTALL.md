@@ -5,7 +5,7 @@
 
 **Required Devices:**
 - **Visual Productions Device:** A CueCore2, CueCore3, QuadCore, or Cuety LPU-2 device
-- **Shelly Device:** Gen2+ devices that supports scripting and has input instances (e.g., Shelly Plus i4, which has four inputs)
+- **Shelly Device:** Gen2+ devices that support scripting and have input instances. Some examples are the Shelly Plus i4 (which has four inputs), Shelly Plus 1 (Mini), Shelly Plus 1 PM (Mini), Shelly Plus 2 PM, Shelly Plus Uni, Shelly Pro 1, Shelly Pro 1 PM, Shelly Pro 2, Shelly Pro 2 PM, Shelly Pro 3, Shelly Pro 4 PM and Shelly Pro Dual Cover PM. However the number of inputs depends on the model
 - **Pushbuttons/Switches:** Wired switches that connect to the Shelly device for triggering cues
 
 ---
