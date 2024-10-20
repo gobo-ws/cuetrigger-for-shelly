@@ -12,7 +12,7 @@
 
 **Hardware Setup:**
 - Connect the pushbutton or switch to your Shelly device. Follow the wiring instructions in the Shelly documentation
-- Ensure your Visual Productions device is connected to the same network as your Shelly device
+-  Make sure all devices are on the same local network or accessible remotely if needed
 
 
 ---
