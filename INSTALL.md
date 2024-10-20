@@ -24,7 +24,7 @@
 2. **Configuration section:**
    - **hostname:** Enter the hostname or IP address of the Visual Productions device (e.g., `192.168.33.2`)
    - **deviceType:** Select your device type. Options include: `'CueCore'`, `'QuadCore'`, `'CuetyLPU2'`
-   - **mode:** Choose your preferred mode. Options are: `'switch'`, `'pushbutton'`
+   - **mode:** Choose your preferred mode. Options are: `'switch'`, `'pushbutton'` Switch mode will send the command Playback jump / Release playback. Pushbutton mode will send the command: Playback jump
 
 3. **Playback IDs:**
    - Specify the playback IDs for each switch/pushbutton. The ranges are:
