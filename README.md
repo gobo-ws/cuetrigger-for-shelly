@@ -1,6 +1,6 @@
 ### CueTrigger for Shelly
 
-gobo.ws has developed an open-source script that integrates [Shelly devices](https://www.shelly.com/) with a switch or pushbutton to wirelessly trigger or stop cues on CueCore2, CueCore3, QuadCore, or Cuety LPU-2 devices from [Visual Productions](https://www.visualproductions.nl/).
+Script that integrates [Shelly devices](https://www.shelly.com/) with a switch or pushbutton to wirelessly trigger or stop cues on CueCore2, CueCore3, QuadCore, or Cuety LPU-2 devices from [Visual Productions](https://www.visualproductions.nl/).
 
 Switch mode will send the command `Playback jump`/`Release playback`, pushbutton mode will send the command `Playback jump`. 
 
