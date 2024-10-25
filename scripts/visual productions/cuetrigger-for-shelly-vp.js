@@ -2,18 +2,18 @@
 // Shelly Plus i4 switch/pushbutton to Visual Productions CueCore 2, CueCore 3, QuadCore & Cuety LPU-2
 // Copyright © 2024 Johan Nilsson - https://gobo.ws. All rights reserved. 
 // Visual Productions and Shelly are trademarks of their respective owners.
-
+//
 // Use the following URL to update a KVS variable on a Shelly device (this example sets Cue with ID 2 to 32):
 // http://<hostname/ip>/rpc/KVS.Set?key="cueId2"&value="32"
-
+//
 // Restart the script after updating a KVS variable:
 // Stop script 1:
 // http://<hostname/ip>/rpc/Script.Stop?id=1
-
+//
 // Start script 1:
 // http://<hostname/ip>/rpc/Script.Start?id=1
-
-
+//
+//
 // Default configuration
 let defaultConfig = {
     hostname: '192.168.33.2', // Device hostname/IP
