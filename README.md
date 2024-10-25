@@ -1,4 +1,4 @@
-### CueTrigger for Shelly (for Visual Productions devices)
+### CueTrigger for Shelly
 
 Script that integrates [Shelly devices](https://www.shelly.com/) with a switch or pushbutton to wirelessly trigger or stop cues on CueCore2, CueCore3, QuadCore, or Cuety LPU-2 devices from [Visual Productions](https://www.visualproductions.nl/).
 
