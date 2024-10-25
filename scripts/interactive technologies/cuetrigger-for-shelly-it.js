@@ -14,7 +14,6 @@
 // http://<hostname/ip>/rpc/Script.Start?id=1
 //
 //
-//
 // Default configuration
 let defaultConfig = {
     cs_hostname: '192.168.33.2', // CueServer hostname/IP
