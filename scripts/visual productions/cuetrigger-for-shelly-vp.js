@@ -116,7 +116,7 @@ Shelly.addEventHandler(function (event) {
 
 // Initialize the script
 function runCueTrigger() {
-    print("CueTrigger for Shelly is running in " + CONFIG.mode + " mode. Device hostname/IP: " + CONFIG.hostname + "");
+    print("CueTrigger for Shelly is running in " + CONFIG.mode + " mode. Device: " + CONFIG.hostname + "");
 }
 
 // Loading the configuration
