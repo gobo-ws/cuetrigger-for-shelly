@@ -115,7 +115,7 @@ Shelly.addEventHandler(function (event) {
 
 // Initialize the script
 function runCueTrigger() {
-    print("CueTrigger for Shelly is running in " + CONFIG.cs_mode + " mode. CueServer hostname/IP: " + CONFIG.cs_hostname);
+    print("CueTrigger for Shelly is running in " + CONFIG.cs_mode + " mode. CueServer: " + CONFIG.cs_hostname);
 }
 
 // Loading the configuration
