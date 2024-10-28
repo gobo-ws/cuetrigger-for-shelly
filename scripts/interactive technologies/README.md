@@ -17,7 +17,7 @@ For testing purposes, a Shelly Plus i4 DC is used, allowing it to trigger four d
 
 
 ---
-[Installation Instructions](https://github.com/gobo-ws/cuetrigger-for-shelly/wiki/CueTrigger-for-Shelly-%E2%80%90-Installation-Instructions) | ↓ [Download script](https://raw.githubusercontent.com/gobo-ws/cuetrigger-for-shelly/refs/heads/main/scripts/interactive%20technologies/cuetrigger-for-shelly-it.js)
+[Installation Instructions](https://github.com/gobo-ws/cuetrigger-for-shelly/wiki/CueTrigger-for-Shelly-(IT-version)-%E2%80%90-Installation-Instructions) | ↓ [Download script](https://raw.githubusercontent.com/gobo-ws/cuetrigger-for-shelly/refs/heads/main/scripts/interactive%20technologies/cuetrigger-for-shelly-it.js)
 
 ---
 
